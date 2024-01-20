@@ -1,0 +1,1 @@
+This is my first tool which is MAC address changer. This tool simplifies process of changing MAC address from command line by just using one line command rather than using and knowing long commands, you just give which interface you want to change your MAC and to whatever value you want to change. This tool will do it for you:)
